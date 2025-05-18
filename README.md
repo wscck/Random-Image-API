@@ -1,6 +1,14 @@
 📌 Random Image API (cwkcck/random-image-api)
 一个轻量级的 随机图片 API，基于 Flask 和 Docker，支持多种格式图片的随机返回，并通过挂载方式存储图片，便于维护。
 
+🚀 部署
+构建镜像
+将存储库文
+docker build -t random-image-api .
+运行容器（挂载宿主机存储）
+docker run -d -p 5000:5000 -v /images:/app/images random-image-api
+API 在 http://127.0.0.1:5000 直接返回随机图片。
+
 🚀 快速启动
 docker run -d -p 5000:5000 -v /images:/app/images cwkcck/random-image-api
 
