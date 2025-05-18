@@ -72,9 +72,3 @@ http://localhost:5000
 🔹 **Docker 轻量级部署，可用于本地或服务器环境**  
 
 ---
-
-📌 **使用方法**：  
-1. 复制以上内容到 `README.md` 文件  
-2. 提交到您的 GitHub 仓库 (`git add README.md && git commit -m "更新 README" && git push`)  
-
-这样，格式就可以正确显示！ 🚀
