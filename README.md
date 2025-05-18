@@ -53,7 +53,7 @@ http://localhost:5000
 ```
 
 ### **返回随机图片**
-访问 `http://localhost:5000/random`，API 会自动识别 `/images/` 目录中的图片并随机返回。
+访问 `http://localhost:5000`，API 会自动识别 `/images/` 目录中的图片并随机返回。
 
 ---
 
