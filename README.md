@@ -26,7 +26,7 @@ docker run -d -p 5000:5000 -v /images:/app/images random-image-api
 
 ## 🚀 快速启动
 
-如果您希望直接从 **Docker Hub** 拉取并运行：
+直接从 **Docker Hub** 拉取并运行：
 ```bash
 docker run -d -p 5000:5000 -v /images:/app/images cwkcck/random-image-api
 ```
