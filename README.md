@@ -47,7 +47,7 @@ docker run -d -p 5000:5000 -v /images:/app/images cwkcck/random-image-api
 运行后，直接访问：
 
 http://localhost:5000
-无需额外 URL，API 会随机返回 /images/ 目录里的图片。
+
 
 🖼️ 支持的图片格式
 ✅ JPG / JPEG / PNG / WEBP / GIF / BMP / TIFF 任何支持的格式都可以直接存放在 /images/ 目录，API 会自动识别并返回。
