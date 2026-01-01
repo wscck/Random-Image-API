@@ -72,3 +72,6 @@ http://localhost:5000
 🔹 **Docker 轻量级部署，可用于本地或服务器环境**  
 
 ---
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=wscck/Random-Image-API&type=date&legend=top-left)](https://www.star-history.com/#wscck/Random-Image-API&type=date&legend=top-left)
